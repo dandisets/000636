@@ -22,7 +22,7 @@ assetsSummary:
   - name: voltage clamp technique
     schemaKey: MeasurementTechniqueType
   numberOfBytes: 24473831989
-  numberOfCells: 97
+  numberOfCells: 616
   numberOfFiles: 706
   numberOfSubjects: 109
   schemaKey: AssetsSummary
