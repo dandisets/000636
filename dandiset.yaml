@@ -40,7 +40,7 @@ assetsSummary:
   - VoltageClampStimulusSeries
   - CurrentClampSeries
 citation: Lee, Brian; Dalley, Rachel; Chartrand, Thomas; Kalmbach, Brian; Lein, Ed
-  (2023) Human interneuron patch-seq electrophysiology (Version draft) [Data set].
+  (2024) Human interneuron patch-seq electrophysiology (Version draft) [Data set].
   DANDI archive. https://dandiarchive.org/dandiset/000636/draft
 contributor:
 - affiliation: []
@@ -102,6 +102,7 @@ contributor:
   - dcite:ProjectLeader
   schemaKey: Person
 dateCreated: '2023-09-15T22:22:19.423708+00:00'
+datePublished: '2024-11-20T05:10:40.350100+00:00'
 description: Patch-seq electrophysiology data from human neocortical interneurons
   from acute and slice culture preparations, accompanying the manuscript "Signature
   morpho-electric properties of diverse GABAergic interneurons in the human neocortex"
@@ -121,6 +122,18 @@ manifestLocation:
 name: Human interneuron patch-seq electrophysiology
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
+publishedBy:
+  endDate: '2024-11-20T05:10:40.350100+00:00'
+  id: urn:uuid:07dca08a-cda4-47f3-8411-5a2cc546754f
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-11-20T05:10:40.350100+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:091807a6-8c64-4878-a0e2-1011a6d455b8
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
