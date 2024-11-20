@@ -40,8 +40,8 @@ assetsSummary:
   - VoltageClampStimulusSeries
   - CurrentClampSeries
 citation: Lee, Brian; Dalley, Rachel; Chartrand, Thomas; Kalmbach, Brian; Lein, Ed
-  (2024) Human interneuron patch-seq electrophysiology (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/000636/draft
+  (2024) Human interneuron patch-seq electrophysiology (Version 0.241120.0510) [Data
+  set]. DANDI archive. https://doi.org/10.48324/dandi.000636/0.241120.0510
 contributor:
 - affiliation: []
   email: brianle@alleninstitute.org
@@ -107,8 +107,9 @@ description: Patch-seq electrophysiology data from human neocortical interneuron
   from acute and slice culture preparations, accompanying the manuscript "Signature
   morpho-electric properties of diverse GABAergic interneurons in the human neocortex"
   (https://www.biorxiv.org/content/10.1101/2022.11.08.515739).
+doi: 10.48324/dandi.000636/0.241120.0510
 ethicsApproval: []
-id: DANDI:000636/draft
+id: DANDI:000636/0.241120.0510
 identifier: DANDI:000636
 keywords:
 - human
@@ -118,7 +119,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000636/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000636/0.241120.0510/assets.yaml
 name: Human interneuron patch-seq electrophysiology
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
@@ -140,6 +141,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget:
 - Multimodal classifcation of cell types in the human neocortex.
-url: https://dandiarchive.org/dandiset/000636/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000636/0.241120.0510
+version: 0.241120.0510
 wasGeneratedBy: []
